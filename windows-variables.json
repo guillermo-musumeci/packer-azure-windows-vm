@@ -1,0 +1,11 @@
+{
+  "azure-subscription-id": "my-azure-subscription-id",
+  "azure-client-id": "my-azure-client-id",
+  "azure-client-secret": "my-azure-client-secret",
+  "azure-tenant-id": "my-azure-tenant-id",
+
+  "azure-resource-group": "kopicloud-packer-rg",
+  "azure-region": "northeurope",
+
+  "vm-size": "Standard_DS1_v2"
+}
