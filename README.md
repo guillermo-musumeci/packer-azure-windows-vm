@@ -20,8 +20,6 @@ Using Packer to create a Windows Virtual Machine image in Azure
 
 ## How to use:
 
-Update the windows-variables.json with your Resource Group and SPN
-
-Execute:
+Update the windows-variables.json with your Resource Group and SPN and then execute:
 
 **packer build -var-file=windows-variables.json windows-2019.json**
